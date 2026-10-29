@@ -1,0 +1,3 @@
+pywin32
+PyHook3
+pyinstaller
