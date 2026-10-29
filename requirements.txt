@@ -1,3 +1,2 @@
-pywin32
-PyHook3
+pynput
 pyinstaller
